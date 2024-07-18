@@ -79,8 +79,8 @@ window.addEventListener("scroll", () => {
     });
 }),
   console.log(
-    "%c Designed and Developed by Herish Chaniyara. ",
-    "background-image: linear-gradient(90deg,#8000ff,#6bc5f8); color: white;font-weight:900;font-size:1rem; padding:20px;"
+    "%c Designed and Developed by Xcriminal. ",
+    "background-image: linear-gradient(90deg,#818181,#818181); color: green;font-weight:900;font-size:1rem; padding:20px;"
   );
 let mybutton = document.getElementById("backtotopbutton");
 function scrollFunction() {
