@@ -93,8 +93,8 @@ html {
 	--color-light-mode: #ece7e1;
 	--color-ddd-color: #ddd;
 	--color-gray: #c4c4c4;
-	--color-purple: #8000ff;
-	--color-light-purple: #cf59e6;
+	--color-purple: #117bd2;
+	--color-light-purple: #24bd4f;
 	--color-light-blue: #6bc5f8;
 	--color-navbarBorder-dark: #e2e2e207;
 	--color-shadowDark: rgba(0, 0, 0, 0.137);
@@ -123,7 +123,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-	background-color: #8000ff
+	background-color: #00c3ff
 }
 
 .cursor-inner {
@@ -177,7 +177,7 @@ html {
 }
 
 .light-mode {
-	--color-dark-mode: #ece7e1;
+	--color-dark-mode: #dcd4ca;
 	--color-black: #fff;
 	--color-white: #000;
 	--color-ddd-color: rgb(31, 31, 31);
