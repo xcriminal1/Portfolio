@@ -81,6 +81,12 @@ window.addEventListener("scroll", () => {
   console.log(
     "%c Designed and Developed by Xcriminal. ",
     "background-image: linear-gradient(90deg,#818181,#818181); color: green;font-weight:900;font-size:1rem; padding:20px;"
+    console.log("%c ██╗  ██╗ ██████╗██████╗ ██╗███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     ", "color: #229799;");
+console.log("%c ╚██╗██╔╝██╔════╝██╔══██╗██║████╗ ████║██║████╗  ██║██╔══██╗██║     ", "color: #229799;");
+console.log("%c  ╚███╔╝ ██║     ██████╔╝██║██╔████╔██║██║██╔██╗ ██║███████║██║     ", "color: #229799;");
+console.log("%c  ██╔██╗ ██║     ██╔══██╗██║██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     ", "color: #229799;");
+console.log("%c ██╔╝ ██╗╚██████╗██║  ██║██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗", "color: #229799;");
+console.log("%c ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝", "color: #229799;");
   );
 let mybutton = document.getElementById("backtotopbutton");
 function scrollFunction() {
