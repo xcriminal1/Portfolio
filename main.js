@@ -78,16 +78,13 @@ window.addEventListener("scroll", () => {
         t.classList.contains(e) && t.classList.add("activeThistab");
     });
 }),
-  console.log(
-    "%c Designed and Developed by Xcriminal. ",
-    "background-image: linear-gradient(90deg,#818181,#818181); color: green;font-weight:900;font-size:1rem; padding:20px;"
+console.log("%c Designed and Developed by Aman Singh. ", "background-image: linear-gradient(70deg, #F5F5F5, #229799); color: Black;font-weight:900;font-size:1rem; padding:20px;");
 console.log("%c ██╗  ██╗ ██████╗██████╗ ██╗███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     ", "color: #229799;");
 console.log("%c ╚██╗██╔╝██╔════╝██╔══██╗██║████╗ ████║██║████╗  ██║██╔══██╗██║     ", "color: #229799;");
 console.log("%c  ╚███╔╝ ██║     ██████╔╝██║██╔████╔██║██║██╔██╗ ██║███████║██║     ", "color: #229799;");
 console.log("%c  ██╔██╗ ██║     ██╔══██╗██║██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     ", "color: #229799;");
 console.log("%c ██╔╝ ██╗╚██████╗██║  ██║██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗", "color: #229799;");
 console.log("%c ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝", "color: #229799;");
-  );
 let mybutton = document.getElementById("backtotopbutton");
 function scrollFunction() {
   document.body.scrollTop > 400 || document.documentElement.scrollTop > 400
